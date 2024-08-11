@@ -1,4 +1,4 @@
-name = lexer-c-handroled
+name = lexer-c-handwritten
 
 # Where to (find | put) stuff
 docdir = docs/generated
